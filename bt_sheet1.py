@@ -11,7 +11,7 @@ from google.colab import files
 import pandas as pd
 
 # Bước 1: Upload file
-uploaded = files.upload()
+uploaded = files.upload("C:\Users\PC\OneDrive\Tài liệu\GitHub\Group-2\games.csv")
 
 import pandas as pd
 import matplotlib.pyplot as plt
