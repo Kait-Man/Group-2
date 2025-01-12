@@ -1,0 +1,13 @@
+_background_
+TV
+chair1
+chair2
+chair3
+chair4
+chair5
+chair6
+closet
+shelfs
+sofa
+table1
+table2
