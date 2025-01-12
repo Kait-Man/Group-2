@@ -1,0 +1,8 @@
+_background_
+elephant
+giraffe
+lion
+ostrich
+rhino
+tiger
+zebra

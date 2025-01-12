@@ -1,0 +1,14 @@
+_background_
+bushes
+lion1
+lion10
+lion2
+lion3
+lion4
+lion5
+lion6
+lion7
+lion8
+lion9
+trees
+vehicle
